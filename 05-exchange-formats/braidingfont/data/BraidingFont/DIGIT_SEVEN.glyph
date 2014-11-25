@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>DIGIT_SEVEN</title>
+<unicode>37</unicode>
+<advanceWidth>1000.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="950.0" y="600.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="600.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="800.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="950.0" y="800.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="950.0" y="400.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="400.0" y="400.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="400.0" y="1000.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="200.0" y="1000.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="200.0" y="840.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="400.0" y="840.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="400.0" y="560.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="200.0" y="560.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="200.0" y="200.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="950.0" y="200.0"/>
+</contourPoint>
+</contour>
+</body>
+</glyphElement>
