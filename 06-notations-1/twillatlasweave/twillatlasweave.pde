@@ -1,4 +1,3 @@
-PFont font;
 int x=10;
 int y=10;
 int a=10;
@@ -6,8 +5,6 @@ int b=10;
 
 void setup() {
   size(200, 250);
-  font = loadFont("Serif-24.vlw");
-  textFont(font);
   fill(0);
 }
 
@@ -74,7 +71,7 @@ for (int a=10; a <=30; a+=10) {
 fill(0);
 rect(x, y, x, y);
 rect(x+20, y+10, x, y);
-rect(x, y+20, x, y);
+rect(x+20, y+20, x, y);
 rect(x+10, y+20, x, y);
 
 fill(255);
